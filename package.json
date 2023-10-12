@@ -1,7 +1,7 @@
 {
   "name": "router6",
   "private": true,
-  "homepage": "http://luisaramicar11.github.io/ExposicionEnrutamiento/",
+  "homepage": "https://luisaramicar11.github.io/ExposicionEnrutamiento/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
